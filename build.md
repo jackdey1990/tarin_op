@@ -11,7 +11,7 @@ _**General Notes:**_
 *   _When following the steps below please use a standard permission user unless otherwise specified._
 *   _A directory `/<source_root>/` will be referred to in these instructions, this is a temporary writable directory anywhere you'd like to place it._
 
-## Building MySQL
+## Build MySQL
 
 ### Step 1: Build using script
 
